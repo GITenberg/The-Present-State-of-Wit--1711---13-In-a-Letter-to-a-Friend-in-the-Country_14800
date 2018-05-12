@@ -1,0 +1,50 @@
+_repo: The-Present-State-of-Wit--1711---13-In-a-Letter-to-a-Friend-in-the-Country_14800
+_version: 0.1.0
+contributor:
+  author_of_introductions:
+  - agent_name: Bond, Donald F. (Donald Frederic)
+    birthdate: 1895
+    gutenberg_agent_id: '35373'
+    url: http://www.gutenberg.org/2009/agents/35373
+  - agent_name: Britton, W. Earl
+    gutenberg_agent_id: '35374'
+    url: http://www.gutenberg.org/2009/agents/35374
+  contributors:
+  - agent_name: Gay, John
+    birthdate: 1685
+    deathdate: 1732
+    gutenberg_agent_id: '905'
+    url: http://www.gutenberg.org/2009/agents/905
+    wikipedia: http://en.wikipedia.org/wiki/John_Gay
+  - agent_name: Boyer, Abel
+    birthdate: 1667
+    deathdate: 1729
+    gutenberg_agent_id: '35372'
+    url: http://www.gutenberg.org/2009/agents/35372
+    wikipedia: http://en.wikipedia.org/wiki/Abel_Boyer
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14800'
+  lccn: a 49004138
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1947'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 07
+subjects:
+- !lcsh 'Conduct of life'
+- !lcsh 'Characters and characteristics'
+- !lcc 'PR'
+- !lcsh 'English literature -- 18th century -- History and criticism'
+tableOfContents: "Introduction by Bond --\r\nThe Present State of wit, in a letter\
+  \ to a Friend in the Country, by Gay (1711) --\r\nIntroduction by Britton --\r\n\
+  Excerpts from the English Theophrastus: or, the manners of the Age. Being the modern\
+  \ characters of the court, the town, and the city, ascribed to Boyer  (1702)."
+title: "The Present State of Wit (1711)\r\nIn a Letter to a Friend in the Country"
+url: http://www.gutenberg.org/ebooks/14800
