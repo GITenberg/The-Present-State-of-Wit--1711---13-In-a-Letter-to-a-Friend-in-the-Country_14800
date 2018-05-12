@@ -26,6 +26,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14800#The-Present-State-of-Wit--1711---13-In-a-Letter-to-a-Friend-in-the-Country
 gutenberg_issued: '2005-01-27'
 gutenberg_type: Text
 identifiers:
